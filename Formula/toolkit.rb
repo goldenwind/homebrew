@@ -3,7 +3,7 @@ class Toolkit < Formula
   homepage "https://blog.ip21.cn/"
   url "https://cdn.ip21.cn/soft/homebrew/toolkit.tar.gz"
   version "1.0.0"
-  sha256 "2284172434443448c46de36674a548706d47daf8aa46761ce98be7809dc775c1"
+  sha256 "6ab149c409486c23b2e65af5fd05b5c523d6ea5e962bb5fcd79a449e73b5cd8e"
 
   def install
     # 假设你的二进制文件是可执行的
