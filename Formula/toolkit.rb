@@ -1,7 +1,7 @@
 class Toolkit < Formula
   desc "自动化办公工具集，助力高效办公！"
   homepage "https://blog.ip21.cn/"
-  url "https://cdn.ip21.cn/soft/homebrew/toolkit.tar.gz"
+  url "https://github.com/goldenwind/homebrew/releases/download/v1.0.0/toolkit.tar.gz"
   version "1.0.0"
   sha256 "6ab149c409486c23b2e65af5fd05b5c523d6ea5e962bb5fcd79a449e73b5cd8e"
 
