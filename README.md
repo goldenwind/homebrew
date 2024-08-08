@@ -6,11 +6,11 @@
 
 * 添加tap源信息
 ```shell
-brew tap goldenwind/homebrew
+brew tap goldenwind/homebrew-toolkit
 ```
 
 * 安装工具箱 应用程序： 
 ```shell
-brew install goldenwind/homebrew/toolkit
+brew install goldenwind/homebrew-toolkit/toolkit
 ```
 
