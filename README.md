@@ -10,9 +10,21 @@
 brew tap goldenwind/homebrew
 ```
 
-* 安装工具箱 应用程序：
+* 安装windkit 应用程序：
 
 ```shell
-brew install goldenwind/homebrew/toolkit
+brew install goldenwind/windkit/windkit
+```
+
+* 更新windkit 应用程序：
+
+```shell
+brew update goldenwind/windkit/windkit
+```
+
+* 验证最新版本：
+
+```shell
+windkit version
 ```
 
