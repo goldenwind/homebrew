@@ -1,7 +1,7 @@
 class Windkit < Formula
   desc "自动化办公工具集，助力高效办公！"
   homepage "https://blog.ip21.cn/"
-  url "https://github.com/goldenwind/homebrew/releases/download/v1.0.0/windkit_darwin_arm64.tar.gz"
+  url "https://github.com/goldenwind/homebrew/releases/download/v1.0.0/windkit.tar.gz"
   version "1.0.0"
   sha256 "664dfe3db1c3671d6118607e0d6af655bdec4dac2828ce89e36df135cf0441b2"
 
