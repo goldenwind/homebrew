@@ -1,4 +1,4 @@
-class Brew < Formula
+class Windkit < Formula
   desc "自动化办公工具集，助力高效办公！"
   homepage "https://blog.ip21.cn/"
   url "https://github.com/goldenwind/homebrew/releases/download/v1.0.0/windkit_darwin_arm64.tar.gz"
