@@ -3,7 +3,7 @@ class Windkit < Formula
   homepage "https://blog.ip21.cn/"
   url "https://github.com/goldenwind/homebrew/releases/download/v1.0.0/windkit_darwin_arm64.tar.gz"
   version "1.0.0"
-  sha256 "3c71167cee15c3e2038b4b037118b91e60e29ed9e6d1d59e874d73372cb03260"
+  sha256 "664dfe3db1c3671d6118607e0d6af655bdec4dac2828ce89e36df135cf0441b2"
 
   def install
     # 假设你的二进制文件是可执行的
