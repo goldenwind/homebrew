@@ -7,7 +7,7 @@
 * 添加tap源信息
 
 ```shell
-brew tap goldenwind/homebrew
+brew tap goldenwind/windkit
 ```
 
 * 安装windkit 应用程序：
@@ -19,6 +19,7 @@ brew install goldenwind/windkit/windkit
 * 更新windkit 应用程序：
 
 ```shell
+brew update
 brew update goldenwind/windkit/windkit
 ```
 
