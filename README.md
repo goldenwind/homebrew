@@ -1,12 +1,12 @@
 # homebrew
 
-## toolkit 工具箱
+## Windkit 工具箱
 
 ### macOS安装方式
 
 * 添加tap源信息
 ```shell
-brew tap goldenwind/windkit
+brew tap goldenwind/brew
 ```
 
 * 安装windkit 应用程序：
